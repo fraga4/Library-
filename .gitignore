@@ -1,0 +1,12 @@
+
+# Arquivos gerados pelo .NET
+bin/
+obj/
+
+# Banco de dados local
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de configuração local
+.vs/
